@@ -77,8 +77,41 @@ start msedge.exe "https://faculty.daffodilvarsity.edu.bd/profile/de/beauty.html"
 start msedge.exe "https://elearn.daffodilvarsity.edu.bd/mod/forum/discuss.php?d=260122"
 start msedge.exe "https://elearn.daffodilvarsity.edu.bd/mod/forum/discuss.php?d=260114"
 timeout /t 120 /nobreak > nul
+cls
 taskkill /IM msedge.exe /T /F 
-timeout /t 1500 /nobreak > nul
+
+echo "1"
+timeout /t 60 /nobreak > nul
+echo "2"
+timeout /t 60 /nobreak > nul
+echo "3"
+timeout /t 60 /nobreak > nul
+echo "4"
+timeout /t 60 /nobreak > nul
+echo "5"
+timeout /t 60 /nobreak > nul
+echo "6"
+timeout /t 60 /nobreak > nul
+echo "7"
+timeout /t 60 /nobreak > nul
+echo "8"
+timeout /t 60 /nobreak > nul
+echo "9"
+timeout /t 60 /nobreak > nul
+echo "10"
+timeout /t 60 /nobreak > nul
+echo "11"
+timeout /t 60 /nobreak > nul
+echo "12"
+timeout /t 60 /nobreak > nul
+echo "13"
+timeout /t 60 /nobreak > nul
+echo "14"
+timeout /t 60 /nobreak > nul
+echo "15"
+timeout /t 60 /nobreak > nul
+
+
 
 GOTO LoopStart
 exit
